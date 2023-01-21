@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 <br>
-## <b> Let's Connect..!</b><img src="https://github.com/tslugr/tslugr/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/tslugr/tslugr/blob/Projelerim/handshake.gif?raw=true" width ="80">
 <br>
 <div align='left'>
 <ul>
