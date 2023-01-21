@@ -102,9 +102,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xtslugr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xtslugr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xtslugr"/>
+<a href="https://github.com/tslugr/">
+  <img src="https://github-readme-stats.vercel.app/api?username=tslugr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tslugr&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="tslugr"/>
 
 </a>
 </div>
@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xtslugr/0xtslugr/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/tslugr/0xtslugr/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -126,14 +126,14 @@ Here are some ideas to get you started:
 
 <li>
 <a href="https://linkedin.com/in/tslugr" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xtslugr-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  tslugr-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://twitter.com/tslugr" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  0xtslugr-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -141,8 +141,8 @@ Here are some ideas to get you started:
 <br>
 
 <li>
-<a href="mailto:0xtslugr@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xtslugr-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:tslugr@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  tslugr-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
