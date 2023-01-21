@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 	
-## <picture><img src = "[[https://raw.githubusercontent.com/tslugr/tslugr/Projelerim/Right_Side.gif](https://avatars.githubusercontent.com/u/40921384?v=4)](https://raw.githubusercontent.com/tslugr/tslugr/Projelerim/Right_Side.gif)" width =50px></picture> **About me**
+## <picture><img src = "https://github.com/tslugr/tslugr/blob/Projelerim/Right_Side.gif" width =50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/tslugr/40921384?v=4/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
