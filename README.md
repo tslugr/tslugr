@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Uğur TAŞLI </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/tslugr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Merhaba..&hearts;++;Sistem ve Network Uzmanı-taught+Front-.Net Yazılım Geliştiricisi,;Bilişim Hastası+Hayat boyu Öğrenen+Öğremeyi Seven,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Merhaba+Ben+U%C4%9Fur+TA%C5%9ELI%2C;Sistem+ve+Network+Uzman%C4%B1y%C4%B1m;Ayr%C4%B1+Zamanda+%2C+C%23+Developer+olma+yolunda+ilerlemekteyim;Beni+Takip+Etmeye+Devam+Edin+%3A)" alt="Typing SVG" /></a>
 </p>
 
 
