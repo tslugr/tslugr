@@ -21,14 +21,12 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Merhaba+Ben+U%C4%9Fur+TA%C5%9ELI%2C;Sistem+ve+Network+Uzman%C4%B1y%C4%B1m;Ayr%C4%B1+Zamanda+%2C+C%23+Developer+olma+yolunda+ilerlemekteyim;Beni+Takip+Etmeye+Devam+Edin+%3A)" alt="Typing SVG" /></a>
 </p>
-
-
 <br>
 
 
 
 	
-## <picture><img src = "https://github.com/tslugr/tslugr/blob/Projelerim/Right_Side.gif" width =50px></picture> **About me**
+## <picture><img src = "https://github.com/tslugr/tslugr/blob/Projelerim/Right_Side.gif" width =50px></picture> *About me*
 
 <picture> <img align="right" src="https://github.com/tslugr/tslugr/blob/Projelerim/Right_Side.gif" width = 250px></picture>
 <br>
