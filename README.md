@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - C# Asp.Net.Core Yazılımı Geliştiricisi
 
 <br>
-##<b> Github Stats </b> <img src="https://github.com/tslugr/tslugr/blob/Projelerim/chrt.gif?raw=true" width="35">
+##<b> Github Stats </b> <img src="https://github.com/tslugr/tslugr/blob/Projelerim/chrt.gif?raw=true" width="375">
 <br>
 <div align="center">
 <a href="https://github.com/tslugr/">
